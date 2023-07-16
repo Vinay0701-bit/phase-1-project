@@ -12,7 +12,7 @@ public static void main(String[] args) {
 
 		char ch;
 
-		File directory = new File("C://Users//Vinay kumar//Desktop//");
+		
 
 		
 
@@ -183,4 +183,5 @@ public static void main(String[] args) {
 
 		}
 	}
+ 
 }
